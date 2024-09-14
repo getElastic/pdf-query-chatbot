@@ -19,6 +19,19 @@ The process flow of the chatbot involves:
 
 This app is an efficient, knowledge-driven assistant for internal document queries, making use of Azure OpenAI services for high-quality responses.
 
+## Prerequisites
+
+- Install the below Python packages using pip in your environment : pip install [name of package]
+
+python-dotenv 
+os
+streamlit 
+PyPDF2 
+langchain 
+langchain-openai
+langchain-community
+langchain-core
+
 ## Setup
 
 1. **Clone the repository**:
