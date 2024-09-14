@@ -31,6 +31,7 @@ langchain
 langchain-openai
 langchain-community
 langchain-core
+faiss-cpu
 
 ## Setup
 
